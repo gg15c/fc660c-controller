@@ -1,8 +1,8 @@
-# FC660C Controller with USB-C
-
-![FC660C Controller with USB-C](https://i.imgur.com/KKluQSl.png)
+## FC660C Controller with USB-C
 
 ![FC660C Controller with USB-C](https://i.imgur.com/H8PtbmV.jpg)
+
+![FC660C Controller with USB-C](https://i.imgur.com/KKluQSl.png)
 
 ## Features
 - Fully compatible with keymaps for Hasu's FC660C controller

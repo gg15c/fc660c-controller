@@ -11,3 +11,8 @@
 
 ## Bill of materials (BOM)
 Please have a look at the production files!
+
+## Reference
+- https://github.com/tmk/tmk_keyboard/tree/master/keyboard/fc660c
+- https://github.com/evyd13/fc660c-controller
+- https://geekhack.org/index.php?topic=88439.0

@@ -1,6 +1,6 @@
 ## FC660C Controller with USB-C
 
-![FC660C Controller with USB-C](https://i.imgur.com/H8PtbmV.jpg)
+![FC660C](https://i.imgur.com/H8PtbmV.jpg)
 
 ![FC660C Controller with USB-C](https://i.imgur.com/KKluQSl.png)
 

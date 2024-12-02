@@ -17,3 +17,4 @@ Please have a look at the production files!
 - https://github.com/evyd13/fc660c-controller
 - https://geekhack.org/index.php?topic=88439.0
 - https://fccid.io/RPKFC660C
+- https://github.com/BrianLChen/nRF52840-2.4GKeyboard

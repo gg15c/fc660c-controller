@@ -18,3 +18,4 @@ Please have a look at the production files!
 - https://geekhack.org/index.php?topic=88439.0
 - https://fccid.io/RPKFC660C
 - https://github.com/BrianLChen/nRF52840-2.4GKeyboard
+- https://gist.github.com/markuscraig/994cc9263a2fc1a9c687e2734585f22e (flash firmware)
